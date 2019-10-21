@@ -11,3 +11,6 @@ Keep your interest on your life and you have to live your day as if you live for
 Done is better than Perfect!
 
 2019.10.21 Monday. Multicampus YeokSam
+
+
+2019.10.22 Tuesday. Multicampus YeokSam (SOMJANG)
