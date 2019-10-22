@@ -28,7 +28,7 @@ Thank you for read this README.md file.
 <br>I hope you to have a good day.
 <br>This is very nice test git project.
 <br>I hope you to enjoy this git project.
-Thank you.
-<br>
+<br>Thank you.
+<br><br>
 -SOMJANG-
 
