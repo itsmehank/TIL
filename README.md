@@ -23,7 +23,7 @@ Done is better than Perfect!
 
 <br><br><br><br>
 ### &lt;Guestbook&gt;
-<br><br>
+<br>
 Thank you for read this README.md file.
 <br>I hope you to have a good day.
 <br>This is very nice test git project.
