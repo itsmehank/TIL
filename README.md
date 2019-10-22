@@ -16,3 +16,9 @@ Done is better than Perfect!
 2019.10.22 Tuesday. Multicampus YeokSam (SOMJANG)
 
 Continue
+
+Thank you for read this README.md file.
+
+I hope you to have a good day.
+
+Thank you.
