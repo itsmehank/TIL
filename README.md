@@ -13,27 +13,22 @@ Done is better than Perfect!
 2019.10.21 Monday. Multicampus YeokSam
 
 
-2019.10.22 Tuesday. Multicampus YeokSam (SOMJANG)
 
-Continue
+
+
+
+
+
+
+
+
+&lt;Guestbook&gt;
 
 Thank you for read this README.md file.
-
 I hope you to have a good day.
-
-Thank you.
-
-
 This is very nice test git project.
-
 I hope you to enjoy this git project.
-
 Thank you.
+
 -SOMJANG-
 
-
-NEW TEST
-
-THANK YOU FOR TEST
-
-HOU HOU HOU HOU HOU
